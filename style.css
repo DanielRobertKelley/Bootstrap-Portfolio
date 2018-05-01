@@ -1,0 +1,26 @@
+
+.footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:darkgrey;
+    color:black;
+    text-align:center;
+    font-size:25px;
+    left:0;
+}
+.pp{
+    font-weight:bold;
+    border-style:solid;
+    border-color:black;
+    width:100px;
+    text-align:center;
+    padding:8px;
+
+.jumbotron {
+    background-image: url("bg.jpg");
+}
+
+h1 {
+    background-image: url("bg.jpg");
+}
