@@ -3,7 +3,7 @@
     position:fixed;
     bottom:0;
     width:100%;
-    background-color:darkgrey;
+    background-color:#343a40;
     color:black;
     text-align:center;
     font-size:25px;
@@ -17,9 +17,15 @@
     text-align:center;
     padding:8px;
 }
+.navbar{
+    background-color:darkgrey;
+}
 
 .jumbotron {
     background-image: url("bg.jpg");
+}
+a:hover pic {
+    display:block;
 }
 
 h1 {
